@@ -8,15 +8,17 @@ Copy Text: Quickly copy the modified text to your clipboard.
 Clear Extra Space: Remove unnecessary spaces from your text.
 Remove Text: Easily eliminate unwanted portions of your text.
 
-Technologies Used:
+# Technologies Used:
 React JavaScript
 Bootstrap
-Getting Started:
+
+# Getting Started:
 Clone this repository to your local machine.
 Navigate to the project directory.
 Run npm install to install the dependencies.
 Run npm start to launch the application locally.
-How to Use:
+
+# How to Use:
 Enter or paste your text into the input field.
 Use the buttons to convert case, copy text, clear extra space, or remove text.
 See the magic happen in real-time!
