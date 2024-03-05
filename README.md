@@ -1,16 +1,13 @@
 # Textutils-Website
 TextUtils is a simple yet powerful text manipulation tool built with React JavaScript and Bootstrap. This repository contains the code for a web application that allows users to convert lowercase to UPPERCASE, copy text with ease, clear extra spaces, and remove unwanted text.
 
-Certainly! Here's a description you can use for your GitHub repository:
 
-TextUtils Website
-TextUtils is a simple yet powerful text manipulation tool built with React JavaScript and Bootstrap. This repository contains the code for a web application that allows users to convert lowercase to UPPERCASE, copy text with ease, clear extra spaces, and remove unwanted text.
-
-Features:
+# Features:
 Convert Case: Toggle between lowercase and UPPERCASE for your text.
 Copy Text: Quickly copy the modified text to your clipboard.
 Clear Extra Space: Remove unnecessary spaces from your text.
 Remove Text: Easily eliminate unwanted portions of your text.
+
 Technologies Used:
 React JavaScript
 Bootstrap
