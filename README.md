@@ -9,8 +9,8 @@ Clear Extra Space: Remove unnecessary spaces from your text.
 Remove Text: Easily eliminate unwanted portions of your text.
 
 # Technologies Used:
-React JavaScript
-Bootstrap
+React JavaScript.
+Bootstrap.
 
 # Getting Started:
 Clone this repository to your local machine.
